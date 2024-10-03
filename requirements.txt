@@ -1,0 +1,6 @@
+streamlit
+tensorflow
+torch
+transformers
+timm
+einops
